@@ -34,11 +34,11 @@ detection/provenance evaluation this analysis builds on.
 ## Reflection: what surprised me
 
 The biggest surprise carrying into this task wasn't anything about how convincing my artifacts
-looked — it was what happened when I ran the ElevenLabs narration through a purpose-built
+looked - it was what happened when I ran the ElevenLabs narration through a purpose-built
 detector and it came back 95% "Likely Authentic." I went into Task 6 assuming detection was the
 backstop: if a disclosure ever got lost, at least a good detector could catch the artifact later
 and set the record straight. That assumption didn't survive contact with my own data. A tool
-built for exactly one job - telling synthetic speech from real speech — got it backwards, and
+built for exactly one job - telling synthetic speech from real speech - got it backwards, and
 explained itself with confident, detailed-sounding language that on inspection was partly
 generic template text rather than a real per-file analysis.
 
