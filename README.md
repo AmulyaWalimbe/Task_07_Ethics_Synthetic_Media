@@ -9,8 +9,8 @@ what would responsible use of this capability actually look like inside a real o
 
 ## Organizational context chosen: University Communications & Marketing Office
 
-I chose this setting because it's a natural extension of my own Task 6 artifact — a coach
-advisory narrative built from athletics data — into the office that would realistically be asked
+I chose this setting because it's a natural extension of my own Task 6 artifact - a coach
+advisory narrative built from athletics data - into the office that would realistically be asked
 to produce something like it for external use. It also has concrete, describable constraints
 (named stakeholders like coaches, student-athletes, and prospective students; a mix of
 low-stakes promotional use and high-stakes crisis/admissions communications; a mix of staff and
