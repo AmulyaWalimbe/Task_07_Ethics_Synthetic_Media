@@ -28,7 +28,7 @@ than generic principles.
 
 This task's analysis is grounded directly in the artifacts, process log, and evaluation from
 [Task_06_Deep_Fake](https://github.com/AmulyaWalimbe/Task_06_Deep_Fake). That repo is not
-duplicated here — see it directly for the source artifacts, the full process log, and the
+duplicated here - see it directly for the source artifacts, the full process log, and the
 detection/provenance evaluation this analysis builds on.
 
 ## Reflection: what surprised me
